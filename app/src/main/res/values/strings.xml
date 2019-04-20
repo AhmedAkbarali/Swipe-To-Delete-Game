@@ -3,4 +3,10 @@
 
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="ok">OK</string>
+    <string name="save">Save</string>
+    <string name="exit">Exit</string>
+    <string name="setup_title">Swipe To Delete</string>
+    <string name="setup_subtitle"></string>
+    <string name="txtTitle">Item Name</string>
 </resources>
